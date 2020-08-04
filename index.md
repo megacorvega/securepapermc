@@ -14,9 +14,6 @@ ___
 
 ## Setting up your Cloudflare Domain
 
-### 
-
-
 ___
 
 ## Setting up your Google Cloud Proxy
